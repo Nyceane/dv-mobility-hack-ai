@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+h2 {
+	z-index: 2;
+}
+h3 {
+	margin-left: 15px;
+}
+h4 {
+	margin-left: 15px;
+}
+h5 {
+	margin-left: 15px;
+}
+.align {
+	margin-left: 15px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+}
+.item {
+	padding-left: 2%;
+	height: 350px;
+	width: 300px;
+	float: left;
+}
+.large {
+	-webkit-filter: blur(1px) grayscale(60%);
+	filter: blur(1px) grayscale(60%);
+	border-radius: 2px;
+}
+.large:hover {
+	-webkit-filter: blur(0px) grayscale(0%);
+	filter: blur(0px) grayscale(0%);
+}
+.left {
+	margin-left: 25%;
+}
+.list {
+	padding-left: 10%;
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 45%;
+}
+.preview {
+	height: 200px;
+	width: 300px;
+	-webkit-filter: blur(2px) grayscale(90%);
+	filter: blur(2px) grayscale(90%);
+	border-radius: 2px;
+}
+.preview:hover {
+	-webkit-filter: blur(0px) grayscale(0%);
+	filter: blur(0px) grayscale(0%);
+}
