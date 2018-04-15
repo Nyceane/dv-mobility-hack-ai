@@ -17,6 +17,14 @@ h5 {
 .align {
 	margin-left: 15px;
 }
+.banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+    text-align: center;
+    width: 74%;
+}
 .center {
     display: block;
     margin-left: auto;
