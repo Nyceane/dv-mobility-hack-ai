@@ -4,55 +4,64 @@
       "time": "7:48 PM Saturday, April 14, 2018",
       "location": "",
       "license": "5GMN220",
-      "video": "video0"
+      "video": "video0",
+      "speed": "34 mph"
     },
     {
       "time": "7:56 PM Saturday, April 14, 2018",
       "location": "",
       "license": "5GMN220",
-      "video": "video1"
+      "video": "video1",
+      "speed": "43 mph"
     },
     {
       "time": "8:23 PM Saturday, April 14, 2018",
       "location": "",
       "license": "5GMN220",
-      "video": "video2"
+      "video": "video2",
+      "speed": "23 mph"
     },
     {
       "time": "9:05 PM Saturday, April 14, 2018",
       "location": "",
       "license": "5GMN220",
-      "video": "video3"
+      "video": "video3",
+      "speed": "54 mph"
     },
     {
       "time": "9:14 PM Saturday, April 14, 2018",
       "location": "",
       "license": "5GMN220",
-      "video": "video4"
+      "video": "video4",
+      "speed": "23 mph"
     },
     {
       "time": "9:23 PM Saturday, April 14, 2018",
       "location": "",
       "license": "5GMN220",
-      "video": "video5"
+      "video": "video5",
+      "speed": "44 mph"
     },
     {
       "time": "9:05 PM Saturday, April 14, 2018",
       "location": "",
       "license": "5GMN220",
-      "video": "video6"
+      "video": "video6",
+      "speed": "12 mph"
     },
     {
       "time": "9:14 PM Saturday, April 14, 2018",
       "location": "",
       "license": "5GMN220",
-      "video": "video7"
+      "video": "video7",
+      "speed": "34 mph"
     },
     {
       "time": "9:23 PM Saturday, April 14, 2018",
       "location": "",
       "license": "5GMN220",
-      "video": "video8"
+      "video": "video8",
+      "speed": "30 mph"
     }
   ]
 }
