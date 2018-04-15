@@ -1,4 +1,5 @@
-#Tailgate Buster
+[/logos/Logo_Large.jpg]
+# Tailgate Buster
 We built Tailgate Buster, to sense tailgating and prevent accidents.
 
 # Team AI
@@ -11,7 +12,7 @@ Peter Ma - IoT tailgating detector, AI detection
 Brian Cottrell - Web/Mobile App
 Xiaobi (Iris) Pan - UI/UX Design, Industrial Design
 
-#Code Structure
+# Code Structure
 There are few pieces of the code here.
 1) AI + IoT portion Portion, we used Ubuntu and Movidius NCS.  This requires you to download
 https://github.com/movidius/ncsdk
