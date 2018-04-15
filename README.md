@@ -2,6 +2,14 @@
 # Tailgate Buster
 We built Tailgate Buster, to sense tailgating and prevent accidents.
 
+According to figures from the National Highway Traffic Safety Administration (NHTSA), out of the 6 million car accidents that happen on U.S. roads every year, over 40% of them (2.5 million) are rear-end collisions.
+
+On average, there is another rear-end collision every 8 seconds, which means that by the time you have read this far down there has already been one or two.
+
+Tailgating is the leading cause of rear-end crashes with one-in-two drivers failing to keep a safe following distance, a new QUT report has revealed.
+
+We are trying to reduce that, the active human behavior is to slow down when they see break lights, we built an IoT add-on to your llicense plate to flash you the red light to warn the tail gators when they get too close after going over 40 miles, if they do not stop, we will capture a video and store it in our database and share the data with insurance companies, which would result in premium increase in insurance.  7/11 accidents that happened to Google's auto drive was rear end accidents, Tailgate Buster can help reduce that.
+
 # Team AI
 Peter Ma - IoT tailgating detector, AI detection
 
