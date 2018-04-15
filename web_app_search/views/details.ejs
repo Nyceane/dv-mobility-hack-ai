@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Tailgate Buster</title>
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <h1 class="center">Tailgate Buster</h1>
+    <video id="videoPlayer" class="center large" onclick="this.paused ? this.play() : this.pause();">
+      <source src="http://localhost:8080/<%= data.video %>" type="video/mp4">
+    </video>
+    <h3 class="left"><%- data.license %></h3>
+    <h4 class="left"><%- data.time %></h4>
+    <h5 class="left"><%- data.location %></h5>
+  </body>
+</html>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Tailgate Buster</title>
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <img src="logo.jpg" class="logo"/>
+    <img src="tb1.png" class="center"/>
+    <div class="list">
+      <div class="item">
+        <video id="videoPlayer" class="preview" onclick="this.paused ? this.play() : this.pause();">
+          <source src="http://localhost:8080/<%= data[0].video %>" type="video/mp4">
+        </video>
+        <h3><%- data[0].license %></h3>
+        <h4><%- data[0].time %></h4>
+        <h5><%- data[0].location %></h5>
+        <form action="/details0" class='align'>
+          <input type="submit" value="Details"/>
+        </form>
+      </div>
+      <div class="item">
+        <video id="videoPlayer" class="preview" onclick="this.paused ? this.play() : this.pause();">
+          <source src="http://localhost:8080/<%= data[1].video %>" type="video/mp4">
+        </video>
+        <h3><%- data[1].license %></h3>
+        <h4><%- data[1].time %></h4>
+        <h5><%- data[1].location %></h5>
+        <form action="/details1" class='align'>
+          <input type="submit" value="Details"/>
+        </form>
+      </div>
+      <div class="item">
+        <video id="videoPlayer" class="preview" onclick="this.paused ? this.play() : this.pause();">
+          <source src="http://localhost:8080/<%= data[2].video %>" type="video/mp4">
+        </video>
+        <h3><%- data[2].license %></h3>
+        <h4><%- data[2].time %></h4>
+        <h5><%- data[2].location %></h5>
+        <form action="/details2" class='align'>
+          <input type="submit" value="Details"/>
+        </form>
+      </div>
+    </div>
+    <div class="list">
+      <div class="item">
+        <video id="videoPlayer" class="preview" onclick="this.paused ? this.play() : this.pause();">
+          <source src="http://localhost:8080/<%= data[3].video %>" type="video/mp4">
+        </video>
+        <h3><%- data[3].license %></h3>
+        <h4><%- data[3].time %></h4>
+        <h5><%- data[3].location %></h5>
+        <form action="/details3" class='align'>
+          <input type="submit" value="Details"/>
+        </form>
+      </div>
+      <div class="item">
+        <video id="videoPlayer" class="preview" onclick="this.paused ? this.play() : this.pause();">
+          <source src="http://localhost:8080/<%= data[4].video %>" type="video/mp4">
+        </video>
+        <h3><%- data[4].license %></h3>
+        <h4><%- data[4].time %></h4>
+        <h5><%- data[4].location %></h5>
+        <form action="/details4" class='align'>
+          <input type="submit" value="Details"/>
+        </form>
+      </div>
+      <div class="item">
+        <video id="videoPlayer" class="preview" onclick="this.paused ? this.play() : this.pause();">
+          <source src="http://localhost:8080/<%= data[5].video %>" type="video/mp4">
+        </video>
+        <h3><%- data[5].license %></h3>
+        <h4><%- data[5].time %></h4>
+        <h5><%- data[5].location %></h5>
+        <form action="/details5" class='align'>
+          <input type="submit" value="Details"/>
+        </form>
+      </div>
+    </div>
+    <div class="list">
+      <div class="item">
+        <video id="videoPlayer" class="preview" onclick="this.paused ? this.play() : this.pause();">
+          <source src="http://localhost:8080/<%= data[6].video %>" type="video/mp4">
+        </video>
+        <h3><%- data[6].license %></h3>
+        <h4><%- data[6].time %></h4>
+        <h5><%- data[6].location %></h5>
+        <form action="/details6" class='align'>
+          <input type="submit" value="Details"/>
+        </form>
+      </div>
+      <div class="item">
+        <video id="videoPlayer" class="preview" onclick="this.paused ? this.play() : this.pause();">
+          <source src="http://localhost:8080/<%= data[7].video %>" type="video/mp4">
+        </video>
+        <h3><%- data[7].license %></h3>
+        <h4><%- data[7].time %></h4>
+        <h5><%- data[7].location %></h5>
+        <form action="/details7" class='align'>
+          <input type="submit" value="Details"/>
+        </form>
+      </div>
+      <div class="item">
+        <video id="videoPlayer" class="preview" onclick="this.paused ? this.play() : this.pause();">
+          <source src="http://localhost:8080/<%= data[8].video %>" type="video/mp4">
+        </video>
+        <h3><%- data[8].license %></h3>
+        <h4><%- data[8].time %></h4>
+        <h5><%- data[8].location %></h5>
+        <form action="/details8" class='align'>
+          <input type="submit" value="Details"/>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
