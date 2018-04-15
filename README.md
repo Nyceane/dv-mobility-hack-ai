@@ -1,4 +1,4 @@
-![logo][Logo_Large.jpg]
+![logo](Logo_Large.jpg)
 # Tailgate Buster
 We built Tailgate Buster, to sense tailgating and prevent accidents.
 
