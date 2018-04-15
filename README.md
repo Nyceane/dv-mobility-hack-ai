@@ -1,16 +1,16 @@
-[/logos/Logo_Large.jpg]
+[logo][logos/Logo_Large.jpg]
 # Tailgate Buster
 We built Tailgate Buster, to sense tailgating and prevent accidents.
 
 # Team AI
-We are team AI
+Peter Ma - IoT tailgating detector, AI detection
+
+Brian Cottrell - Web/Mobile App
+
+Xiaobi (Iris) Pan - UI/UX Design, Industrial Design
 
 Our deck can be viewed at 
 https://docs.google.com/presentation/d/1OyHM0VFQi8pevPmodofPLgmWqNdF-mQWB6Of6JgRzls/edit?usp=sharing
-
-Peter Ma - IoT tailgating detector, AI detection
-Brian Cottrell - Web/Mobile App
-Xiaobi (Iris) Pan - UI/UX Design, Industrial Design
 
 # Code Structure
 There are few pieces of the code here.
